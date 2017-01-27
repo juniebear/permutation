@@ -1,0 +1,2 @@
+# permutations
+Variable length permutations
